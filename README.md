@@ -202,7 +202,7 @@ Main indicators include:
 * 🤖 Demand forecasting
 
 <p align="center">
-<img src="casandra.png" width="900"/>
+<img src="cassandra.png" width="900"/>
 </p>
 
 ---
