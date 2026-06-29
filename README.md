@@ -69,7 +69,7 @@ The platform continuously collects taxi GPS positions and trip requests, process
 # 🏗️ System Architecture
 
 <p align="center">
-<img src="assets/architecture.png" width="1000"/>
+<img src="architecture.png" width="1000"/>
 </p>
 
 The platform follows a three-layer architecture:
@@ -83,7 +83,7 @@ The platform follows a three-layer architecture:
 # 🔄 Data Pipeline
 
 <p align="center">
-<img src="assets/pipeline.png" width="1000"/>
+<img src="pipeline.png" width="1000"/>
 </p>
 
 The complete processing pipeline is composed of:
@@ -202,7 +202,7 @@ Main indicators include:
 * 🤖 Demand forecasting
 
 <p align="center">
-<img src="assets/dashboard.png" width="900"/>
+<img src="casandra.png" width="900"/>
 </p>
 
 ---
