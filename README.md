@@ -223,7 +223,7 @@ The shared folder contains:
 
 ### 🔗 Google Drive
 
-**[(Insert your Google Drive link here)](https://drive.google.com/drive/folders/1LVK9xYmEamguhuKjnvxhZJBFUTKHxqy8)**
+**[(The complete project source code is available on Google Drive)](https://drive.google.com/drive/folders/1LVK9xYmEamguhuKjnvxhZJBFUTKHxqy8)**
 
 ---
 
